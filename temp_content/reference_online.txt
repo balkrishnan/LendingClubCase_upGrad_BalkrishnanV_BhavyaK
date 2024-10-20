@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/vinaypratap/lending-club-case-study-1
+
+https://github.com/anushkaparadkar/lending-club-case-study/blob/master/lending-case-study.ipynb
+
